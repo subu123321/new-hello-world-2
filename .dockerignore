@@ -1,0 +1,10 @@
+.git
+.github
+**/target
+.idea
+.vscode
+*.iml
+README.md
+Jenkinsfile
+azure-pipelines.yml
+sonar-project.properties
